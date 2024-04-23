@@ -6,7 +6,7 @@ Created on Tue Apr 16 12:09:22 2024
 """
 
 def berechne_summe(numbers):
-    summe = 150
+    summe = 1000
     for num in numbers:
         summe += num
     return summe
